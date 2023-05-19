@@ -67,6 +67,10 @@ To be updated
 ## Download data and checkpoints
 To be updated
 
+
+## Comments
+- Codes will be released soon.
+
 ## BibTeX
 ```
 @article{chen2023cinematic,
