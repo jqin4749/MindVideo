@@ -7,11 +7,11 @@
 ## MinD-Video
 **MinD-Video** is a framework for high-quality video reconstruction from brain recording. <br/>
 
-[Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity](https://arxiv.org/abs/2211.06956).<br/>
+[**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**](https://arxiv.org/abs/2211.06956).<br/>
 [Zijiao Chen](https://neuroimaginglab.org/index.html)\*,
 [Jiaxin Qing](https://scholar.google.com/citations?user=jpUlRiYAAAAJ&hl=en)\*,
 [Juan Helen Zhou](https://scholar.google.com.sg/citations?user=4Z1S3_oAAAAJ&hl=en)<br/>
-\* Equal contribution <br/>
+\* equal contribution <br/>
 
 ## News
 - May. 20, 2023. Preprint release.
