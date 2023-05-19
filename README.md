@@ -23,10 +23,12 @@ progressively through masked brain modeling, multimodal contrastive learning wit
 We show that high-quality videos of arbitrary frame rates can be reconstructed with MinD-Video using adversarial guidance. The recovered videos were evaluated with various semantic and pixel-level metrics. We achieved an average accuracy of 85% in semantic classification tasks and 0.19 in structural similarity index (SSIM), outperforming the previous state-of-the-art by 45%. We also show that our model is biologically plausible and interpretable, reflecting established physiological processes.
 
 ## Overview
-![flowchar-img](assets/flowchart.png) 
+
+![flowchar-img](assets/flowchart.jpg) 
+
 
 ## Samples
-Some samples are shown below. Our methods can reconstruct various objects, animals, and scenes. The reconstructed videos are of high quality and are consistent with the ground truth. For more samples, please refer to our [website](https://google.com).
+Some samples are shown below. Our methods can reconstruct various objects, animals, motions, and scenes. The reconstructed videos are of high quality and are consistent with the ground truth. For more samples, please refer to our [website](https://google.com) or download with [google drive](https://drive.google.com/drive/folders/1swYQD-69phlJUz4_HmdM0RFk_7okLK4v?usp=sharing).
 <table>
   <tr>
       <td> &nbsp; &nbsp; &nbsp; &nbsp; GT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ours</td>
