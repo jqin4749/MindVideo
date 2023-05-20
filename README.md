@@ -1,5 +1,5 @@
 # Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity 
-[arXiv](https://arxiv.org/abs/2211.06956) | [Website](https://google.com).<br/>
+[arXiv](https://arxiv.org/abs/2211.06956) | [Website](https://mind-video.com/).<br/>
 <p align="center">
 <img src=assets/first_fig.png />
 </p>
@@ -28,7 +28,7 @@ We show that high-quality videos of arbitrary frame rates can be reconstructed w
 
 
 ## Samples
-Some samples are shown below. Our methods can reconstruct various objects, animals, motions, and scenes. The reconstructed videos are of high quality and are consistent with the ground truth. For more samples, please refer to our [website](https://google.com) or download with [google drive](https://drive.google.com/drive/folders/1swYQD-69phlJUz4_HmdM0RFk_7okLK4v?usp=sharing).
+Some samples are shown below. Our methods can reconstruct various objects, animals, motions, and scenes. The reconstructed videos are of high quality and are consistent with the ground truth. For more samples, please refer to our [website](https://mind-video.com/) or download with [google drive](https://drive.google.com/drive/folders/1swYQD-69phlJUz4_HmdM0RFk_7okLK4v?usp=sharing).
 <table>
   <tr>
       <td> &nbsp; &nbsp; &nbsp; &nbsp; GT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ours</td>
