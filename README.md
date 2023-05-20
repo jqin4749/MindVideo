@@ -28,7 +28,8 @@ We show that high-quality videos of arbitrary frame rates can be reconstructed w
 
 
 ## Samples
-Some samples are shown below. Our methods can reconstruct various objects, animals, motions, and scenes. The reconstructed videos are of high quality and are consistent with the ground truth. For more samples, please refer to our [website](https://mind-video.com/) or download with [google drive](https://drive.google.com/drive/folders/1swYQD-69phlJUz4_HmdM0RFk_7okLK4v?usp=sharing).
+- Some samples are shown below. Our methods can reconstruct various objects, animals, motions, and scenes. The reconstructed videos are of high quality and are consistent with the ground truth. For more samples, please refer to our [website](https://mind-video.com/) or download with [google drive](https://drive.google.com/drive/folders/1swYQD-69phlJUz4_HmdM0RFk_7okLK4v?usp=sharing).
+- The following samples are currently generated with one RTX3090. Due to GPU memory limitation, samples shown below are currently 2 seconds of 3 FPS at the resolution of 256 x 256. But our method can work with longer brain recordings and reconstruct longer videos with full frame rate (30 FPS)  and higher resolution, if more GPU memory is available.
 <table>
   <tr>
       <td> &nbsp; &nbsp; &nbsp; &nbsp; GT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ours</td>
