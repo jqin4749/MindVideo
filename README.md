@@ -79,7 +79,7 @@ To be updated
 @article{chen2023cinematic,
   title={Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity},
   author={Chen, Zijiao and Qing, Jiaxin and Zhou, Juan Helen},
-  journal={arXiv preprint arXiv:2211.06956},
+  journal={arXiv preprint arXiv:2305.11675},
   year={2023}
 }
 ```
