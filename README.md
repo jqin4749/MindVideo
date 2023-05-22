@@ -1,5 +1,5 @@
 # Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity 
-[arXiv](https://arxiv.org/abs/2211.06956) | [Website](https://mind-video.com/).<br/>
+[arXiv](http://arxiv.org/abs/2305.11675) | [Website](https://mind-video.com/).<br/>
 <p align="center">
 <img src=assets/first_fig.png />
 </p>
@@ -7,8 +7,8 @@
 ## MinD-Video
 **MinD-Video** is a framework for high-quality video reconstruction from brain recording. <br/>
 
-[**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**](https://arxiv.org/abs/2211.06956).<br/>
-[Zijiao Chen](https://neuroimaginglab.org/index.html)\*,
+[**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**](http://arxiv.org/abs/2305.11675).<br/>
+[Zijiao Chen](https://scholar.google.com/citations?user=gCTUx9oAAAAJ&hl=en)\*,
 [Jiaxin Qing](https://scholar.google.com/citations?user=jpUlRiYAAAAJ&hl=en)\*,
 [Juan Helen Zhou](https://scholar.google.com.sg/citations?user=4Z1S3_oAAAAJ&hl=en)<br/>
 \* equal contribution <br/>
