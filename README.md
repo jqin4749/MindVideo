@@ -14,6 +14,7 @@
 \* equal contribution <br/>
 
 ## News
+- Sep. 22, 2023. Accepted by NeurIPS2023 for Oral Presentation. 
 - May. 20, 2023. Preprint release.
 
 ## Abstract
