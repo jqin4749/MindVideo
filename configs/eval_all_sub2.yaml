@@ -1,0 +1,24 @@
+working_dir: "/path-to-working-dir/"
+cache_dir: "./.cache"
+checkpoint_path: "./pretrains/sub2"
+group_name: "eval"
+data_dir: "/path-to-dataset/wen2017"
+
+dataset: "Wen"
+patch_size: 16
+subjects: 
+  - "subject2"
+
+val_data_setting:
+  video_length: 6
+  width: 256
+  height: 256
+  num_inference_steps: 200
+  guidance_scale: 12.5
+  num_videos_per_prompt: 1
+
+eval_batch_size: 1
+window_size: 2
+seed: 3407
+half_precision: False
+load_test_data_only: True

@@ -1,0 +1,2 @@
+from .pipeline_mindvideo import MindVideoPipeline
+from .pipeline_tuneavideo import TuneAVideoPipeline

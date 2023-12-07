@@ -66,21 +66,41 @@ We show that high-quality videos of arbitrary frame rates can be reconstructed w
 </table>
 
 ## Environment setup
-To be updated
+Create and activate conda environment named ```mind-video``` from our ```env.yaml```
+```sh
+conda env create -f env.yaml
+conda activate mind-video
+```
 
 ## Download data and checkpoints
-To be updated
+The large-scale pre-training dataset is downloaded from [HCP](https://www.humanconnectome.org/). And please refer to this [repo](https://github.com/zjc062/mind-vis) for large-scale pre-training scripts.
+Our target dataset Wen (2018) can be downloaded from [here](https://purr.purdue.edu/publications/2809/1). 
+
+Download the pre-trained checkpoints and preprocessed test data from [here](https://drive.google.com/drive/folders/1zqzqy2vqt5cnGbYVkgwx8lYLWjt2H8Z6?usp=sharing). Change the path in the config file accordingly. 
+
+## Replicate our results
+### Method 1: Run generation with pretrained checkpoints
+```sh
+python scripts/eval_all.py --config configs/eval_all_sub1.yaml
+```
+Set half_precision to True and num_inference_steps to 50 for faster inference.
+
+### Method 2: Download the generated videos and run metrics evaluation
+Download the generated videos from [google drive](https://drive.google.com/drive/folders/1d7LUkHOMCLUtxvYbgeGAFGIJ4UAmCM0w?usp=sharing). 
+```sh
+python scripts/run_metrics.py /path/to/generated/videos
+```
 
 
-## Comments
-- Codes will be released soon.
+## Acknowledgement
+We thank the authors of Tune-A-Video for open-sourcing their codes. We also thank the Laboratory of Integrated Brain Imaging at Purdue University for making their data publicly available.
 
 ## BibTeX
 ```
 @article{chen2023cinematic,
   title={Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity},
   author={Chen, Zijiao and Qing, Jiaxin and Zhou, Juan Helen},
-  journal={arXiv preprint arXiv:2305.11675},
+  journal={NeurIPS},
   year={2023}
 }
 ```
